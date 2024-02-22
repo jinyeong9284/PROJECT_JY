@@ -1,0 +1,7 @@
+포토샵
+
+기본툴 사용법(레이어, lasso Tool, Selection Tool, Pen Tool)
+Select Inverse ( Ctrl + Shift + i) : 반전
+Ctrl + Art + C : 캔버스 사이즈
+
+html
