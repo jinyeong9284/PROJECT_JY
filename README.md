@@ -45,6 +45,6 @@ HTML : &lt;form&gt;, &lt;table&gt;, &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;, &lt;thea
 학습
 
 <h1>240228</h1>
-포토샵 : 블러 효과와 그림자를 활용한 카드 뉴스 만들기, Filter 사용해보기, 패턴넣기, 움짤만들기
+포토샵 : 블러 효과와 그림자를 활용한 카드 뉴스 만들기, Filter 사용해보기, 패턴넣기, 움짤만들기<br>
 HTML : &lt;form&gt;, &lt;input&gt;, &lt;button&gt;, &lt;option&gt;, &lt;optgroup&gt;, &lt;label&gt; &lt;fieldset&gt;, &lt;legend&gt;, &lt;video&gt;, 
 &lt;audio&gt; 태그 학습
